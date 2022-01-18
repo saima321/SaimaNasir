@@ -5,16 +5,12 @@
 ### Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img align="right" alt="Developer Usama Sarwar" src="code.gif" width="500" height="320" />
 
-- 😄 Pronouns me as `/ue-saw-ma/`
-- 🎓 COMSATS University Islamabad
-- 🏛 Senior Team Lead at Bytrix Technologies
-- 💻 Cross Platform App Developer
-- ⚡ Expert at developing eCommerce Solutions
-- 🌱 Learning **Data Science**
-- 🔭 Current Project: **AlShaafi** `AI & ML`
-- ☕️ Coffee Lover
+- 🎓 University of Agriculture Faisalabad
+- 🏛 Graphic Designer at Globital Marketing
+- 💻 Full-stack Graphic Designer
+- ⚡ Expert in Digital Graphic Designing
 - 🇵🇰 Faisalabad, Punjab, Pakistan
-- 📱 (+92) 31 0000 777 3
+- 📱 (+92) 32 3657 463 2
 
 <br><br>
 <div align="center">
